@@ -1,6 +1,6 @@
 # TO merge the strings alternately
 
-[problem statement screenshot](./problem_screenshot/1.png)
+![problem statement screenshot](./problem_screenshot/1.png)
 
 ## My solutions
 
