@@ -1,6 +1,6 @@
 # Rotate Image
 
-![problem statement screenshot](./problem_screesnshot/1.png)
+![problem statement screenshot](./problem_screenshot/1.png)
 
 # My solutions
 
